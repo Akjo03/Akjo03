@@ -2,7 +2,16 @@
 
 I'm Lukas, a software developer based in switzerland currently working for the [FOITT (Federal Office of Information Technology, Systems and Telecommunication)](https://bit.admin.ch).
 
-Currently I'm focussing mainly on Java and trying to improve my skills on there, but I'm also interested in learning new languages!
+Currently I'm focussing mainly on Java and trying to improve my skills on it, but I'm also interested in learning new languages!
+
+### Dev Skills
+
+- Java (Plain, Maven, Spring Boot, Hibernate, Lombok, JUnit, JSP, etc.)
+- Python (Plain, Flask)
+- C# (Console, Forms, Unity)
+- Web (HTML, CSS, Javascript, Typescript, Angular, Tailwind, etc.)
+- Shell Scripting (CMD, PowerShell, Bash)
+- Git (GitHub, GitLab)
 
 ### More things about me
 
@@ -11,15 +20,16 @@ Currently I'm focussing mainly on Java and trying to improve my skills on there,
 - 💻 Programming
 - 🎹 Playing piano
 - 🎼 Composing music
+- 🎮 Gaming
 - 🌱 Learning new things
 - 👬🏼 Meeting new friends and opportunities
 - 👬 Hanging out with friends
 
 #### Interested in
 
-- 🪐 Everything related to space
+- 🪐 Everything related to space (especially SpaceX)
 - 🌎 GPS navigation
-- 🚗 Electric Vehicles
+- 🚗 Electric Vehicles (especially Tesla)
 - 🧠 Artificial Intelligence
 
 #### Would love doing/getting into
