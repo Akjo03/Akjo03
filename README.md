@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 I'm Lukas, a software developer based in switzerland currently working for the [FOITT (Federal Office of Information Technology, Systems and Telecommunication)](https://bit.admin.ch).
 
