@@ -34,6 +34,7 @@ Currently I'm focussing mainly on Java and trying to improve my skills on there,
 ### How to reach me
 
 My preffered way for you to contact me would be over Discord! My discord user is Akjo03#3012.
+
 I'm also available through my e-mail [lukas.kueffer@outlook.com](mailto:lukas.kueffer@outlook.com).
 
 ### Other links and resources
