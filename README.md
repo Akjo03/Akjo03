@@ -44,4 +44,4 @@ I'm also available through my e-mail [lukas.kueffer@outlook.com](mailto:lukas.ku
 
 [![Akjo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akjo03&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akjo03&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akjo03&show_icons=true&theme=dark&exclude_repo=kids-day-bit)](https://github.com/anuraghazra/github-readme-stats)
