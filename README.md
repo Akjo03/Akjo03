@@ -9,8 +9,9 @@ Currently I'm focussing mainly on Java and trying to improve my skills on it, bu
 - Java (Plain, Maven, Spring & Spring Boot, Hibernate, Lombok, JUnit, JSP, Struts, etc.)
 - Python (Plain, Flask)
 - C# (Console, Forms, Unity)
-- Web (HTML, CSS, Javascript, Typescript, Angular, Tailwind, Firebase, NodeJS, etc.)
+- Web (HTML, CSS, Javascript, Typescript, Angular, Tailwind, Firebase, Node, etc.)
 - Shell Scripting (CMD, PowerShell, Bash)
+- Malware Analysis (Only basic static analysis)
 - Git
 - GitHub (Project Management, Actions, etc.)
 - GitLab (Basic Usage)
