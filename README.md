@@ -12,7 +12,10 @@ Currently I'm focussing mainly on Java and trying to improve my skills on it, bu
 - Web (HTML, CSS, Javascript, Typescript, Angular, Tailwind, Firebase, NodeJS, etc.)
 - Shell Scripting (CMD, PowerShell, Bash)
 - Git
-- GitHub || GitLab || Atlassian (Project Management, CI/CD, etc.)
+- GitHub (Project Management, Actions, etc.)
+- GitLab (Basic Usage)
+- Atlassian Products (Confluence, Jira, BitBucket, Trello)
+- Jenkins (CI/CD)
 - Others (Microservices, IBM Filenet, Discord Bot Development, etc.)
 
 ### More things about me
