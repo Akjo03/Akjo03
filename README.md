@@ -12,7 +12,7 @@ Currently I'm focussing mainly on Java and trying to improve my skills on it, bu
 - Web (HTML, CSS, Javascript, Typescript, Angular, Tailwind, Firebase, Node, etc.)
 - Shell Scripting (CMD, PowerShell, Bash)
 - IT-Security (Basic Malware Analysis, Cryptography, Firewall Setup, Network Routing)
-- Git
+- Git (Commits, Push/Pull, Branching, Merge Conflicts, etc.)
 - GitHub (Project Management, Actions, etc.)
 - GitLab (Basic Usage)
 - Atlassian Products (Confluence, Jira, BitBucket, Trello)
