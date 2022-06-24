@@ -12,7 +12,8 @@ Currently I'm focussing mainly on Java and trying to improve my skills on it, bu
 - Web (HTML, CSS, Javascript, Typescript, Angular, Tailwind, Firebase, NodeJS, etc.)
 - Shell Scripting (CMD, PowerShell, Bash)
 - Git
-- GitHub & GitLab & BitBucket & JIRA & Confluence (Project Management, CI/CD, etc.)
+- GitHub || GitLab || Atlassian (Project Management, CI/CD, etc.)
+- Others (Microservices, IBM Filenet, Discord Bot Development, etc.)
 
 ### More things about me
 
