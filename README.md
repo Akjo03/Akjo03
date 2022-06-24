@@ -11,7 +11,7 @@ Currently I'm focussing mainly on Java and trying to improve my skills on it, bu
 - C# (Console, Forms, Unity)
 - Web (HTML, CSS, Javascript, Typescript, Angular, Tailwind, Firebase, Node, etc.)
 - Shell Scripting (CMD, PowerShell, Bash)
-- Malware Analysis (Only basic static analysis)
+- IT-Security (Basic Malware Analysis, Cryptography, Firewall Setup, Network Routing)
 - Git
 - GitHub (Project Management, Actions, etc.)
 - GitLab (Basic Usage)
