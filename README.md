@@ -6,12 +6,13 @@ Currently I'm focussing mainly on Java and trying to improve my skills on it, bu
 
 ### Dev Skills
 
-- Java (Plain, Maven, Spring Boot, Hibernate, Lombok, JUnit, JSP, etc.)
+- Java (Plain, Maven, Spring & Spring Boot, Hibernate, Lombok, JUnit, JSP, Struts, etc.)
 - Python (Plain, Flask)
 - C# (Console, Forms, Unity)
-- Web (HTML, CSS, Javascript, Typescript, Angular, Tailwind, etc.)
+- Web (HTML, CSS, Javascript, Typescript, Angular, Tailwind, Firebase, NodeJS, etc.)
 - Shell Scripting (CMD, PowerShell, Bash)
-- Git (GitHub, GitLab)
+- Git
+- GitHub & GitLab & BitBucket & JIRA & Confluence (Project Management, CI/CD, etc.)
 
 ### More things about me
 
@@ -46,10 +47,6 @@ Currently I'm focussing mainly on Java and trying to improve my skills on it, bu
 My preffered way for you to contact me would be over Discord! My discord user is Akjo03#3012.
 
 I'm also available through my e-mail [lukas.kueffer@outlook.com](mailto:lukas.kueffer@outlook.com).
-
-### Other links and resources
-
-- [My homepage](https://akjo03.github.io)
 
 ### GitHub Stats
 
