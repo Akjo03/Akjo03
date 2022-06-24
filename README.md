@@ -2,7 +2,7 @@
 
 I'm Lukas, a software developer based in switzerland currently working for the [FOITT (Federal Office of Information Technology, Systems and Telecommunication)](https://bit.admin.ch).
 
-Currently I'm focussing mainly on Java and trying to improve my skills on it, but I'm also interested in learning new languages!
+Currently I'm mainly focussing on Java and trying to improve my skills on it, but I'm also interested in learning new languages and skills!
 
 ### Dev Skills
 
