@@ -6,7 +6,7 @@ Currently I'm mainly focussing on Java and trying to improve my skills on it, bu
 
 ### Dev Skills
 
-- Java (Plain, Maven, Spring & Spring Boot, Hibernate, Lombok, JUnit, JSP, Struts, etc.)
+- Java (Plain, Maven, Spring & Spring Boot, Swing, Hibernate, Lombok, JUnit, JSP, Struts, etc.)
 - Python (Plain, Flask)
 - C# (Console, Forms, Unity)
 - Web (HTML, CSS, Javascript, Typescript, Angular, Tailwind, Firebase, Node, etc.)
