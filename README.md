@@ -1,8 +1,8 @@
 ## Hello there 👋
 
-I'm Lukas, a software developer based in switzerland currently working for the [FOITT (Federal Office of Information Technology, Systems and Telecommunication)](https://bit.admin.ch) and for [AkjoStudios](https://github.com/AkjoStudios) 
+I'm Lukas, a software developer based in switzerland currently working for the [FOITT (Federal Office of Information Technology, Systems and Telecommunication)](https://bit.admin.ch) and for [AkjoStudios](https://github.com/AkjoStudios), my own self-proclaimed software company creating stable and modern applications for everyone on earth and beyond! 🚀
 
-Currently I'm mainly focussing on Java and trying to improve my skills on it, but I'm also interested in learning new languages and skills! (especially Rust)!
+Currently I'm mainly focussing on creating Java applications, but I'm also interested in learning new languages and skills, especially Rust!
 
 ### Dev Skills
 
@@ -33,26 +33,33 @@ Currently I'm mainly focussing on Java and trying to improve my skills on it, bu
 
 #### Interested in
 
+- 🔌 Technology
 - 🪐 Everything related to space (especially SpaceX)
 - 🌎 GPS navigation
 - 🚗 Electric Vehicles (especially Tesla)
 - 🧠 Artificial Intelligence
+- 🤖 Robots (especially Boston Dynamics)
 
 #### Would love doing/getting into
 
+- 👨‍💻 Learning Rust
 - 📸 Photography
 - 🗺️ Travelling the world
-- 👨‍💻 Learning Rust
 
 #### Currently getting into
 
 - 🎥 Video Editing
+- 🦾 Adobe Suite (Photoshop, Premiere Pro, After Effects, Illustrator, XD, etc.)
 
 ### How to reach me
 
 My preffered way for you to contact me would be over Discord! My discord user is [Akjo03#3012](https://discordapp.com/users/284983236428562432).
 
-I'm also available through my e-mail [lukas.kueffer@outlook.com](mailto:lukas.kueffer@outlook.com).
+For personal inquiries I'm also available through my e-mail [lukas.kueffer@outlook.com](mailto:lukas.kueffer@outlook.com). Any business inquiries should be directed to the appropriate e-mail below:
+
+FOITT (Federal Office of Information Technology, Systems and Telecommunication): [lukas.kueffer@bit.admin.ch](mailto:lukas.kueffer@bit.admin.ch)
+
+AkjoStudios: [akjostudios@gmx.net](mailto:akjostudios@gmx.net)
 
 ### GitHub Stats
 
