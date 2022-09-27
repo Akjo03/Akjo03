@@ -1,8 +1,8 @@
 ## Hello there 👋
 
-I'm Lukas, a software developer based in switzerland currently working for the [FOITT (Federal Office of Information Technology, Systems and Telecommunication)](https://bit.admin.ch).
+I'm Lukas, a software developer based in switzerland currently working for the [FOITT (Federal Office of Information Technology, Systems and Telecommunication)](https://bit.admin.ch) and for [AkjoStudios](https://github.com/AkjoStudios) 
 
-Currently I'm mainly focussing on Java and trying to improve my skills on it, but I'm also interested in learning new languages and skills!
+Currently I'm mainly focussing on Java and trying to improve my skills on it, but I'm also interested in learning new languages and skills! (especially Rust)!
 
 ### Dev Skills
 
@@ -42,6 +42,7 @@ Currently I'm mainly focussing on Java and trying to improve my skills on it, bu
 
 - 📸 Photography
 - 🗺️ Travelling the world
+- 👨‍💻 Learning Rust
 
 #### Currently getting into
 
