@@ -4,9 +4,11 @@ I'm Lukas, a software developer based in switzerland currently working for the [
 
 Currently I'm mainly focussing on creating Java applications, but I'm also interested in learning new languages and skills, especially Rust!
 
-### Dev Skills
+### Skill Repository
+*I atleast have dabbled into these AT LEAST once! To find out exactly what my skillset is, please don't hesitate to contact me or find out by yourself by looking at my repositories!*
 
-- Java (Plain, Maven, Spring & Spring Boot, Swing, Hibernate, Lombok, JUnit, JSP, Struts, etc.)
+- Java (Plain, Maven, Spring & Spring Boot, Lombok, Swing, Hibernate, JUnit, JSP, Struts, etc.)
+- Kotlin (Basic Knowledge, Android Development, Gradle)
 - Python (Plain, Flask)
 - C# (Console, Forms, Unity)
 - Web (HTML, CSS, Javascript, Typescript, Angular, Tailwind, Firebase, Node, etc.)
@@ -17,11 +19,15 @@ Currently I'm mainly focussing on creating Java applications, but I'm also inter
 - GitLab (Basic Usage)
 - Atlassian Products (Confluence, Jira, BitBucket, Trello)
 - Jenkins (CI/CD)
-- Others (Microservices, IBM Filenet, Discord Bot Development, etc.)
+- Microservices [Java]
+- IBM Filenet [Java]
+- Discord Bot Development [Python, Java]
+- Game Development [GameMaker, Unity]
+- Native Graphics/OpenGL [Java]
+- OpenCV [Python, Kotlin]
+- etc.
 
-### More things about me
-
-#### My hobbies
+### My hobbies are...
 
 - 💻 Programming
 - 🎹 Playing piano
@@ -31,7 +37,7 @@ Currently I'm mainly focussing on creating Java applications, but I'm also inter
 - 👬🏼 Meeting new friends and opportunities
 - 👬 Hanging out with friends
 
-#### Interested in
+### I'm interested in...
 
 - 🔌 Technology
 - 🪐 Everything related to space (especially SpaceX)
@@ -40,18 +46,18 @@ Currently I'm mainly focussing on creating Java applications, but I'm also inter
 - 🧠 Artificial Intelligence
 - 🤖 Robots (especially Boston Dynamics)
 
-#### Would love doing/getting into
+### I would love doing/getting into...
 
 - 👨‍💻 Learning Rust
 - 📸 Photography
 - 🗺️ Travelling the world
 
-#### Currently getting into
+### I'm currently getting into...
 
 - 🎥 Video Editing
 - 🦾 Adobe Suite (Photoshop, Premiere Pro, After Effects, Illustrator, XD, etc.)
 
-### How to reach me
+### How you can reach me:
 
 My preffered way for you to contact me would be over Discord! My discord user is [Akjo03#3012](https://discordapp.com/users/284983236428562432).
 
