@@ -68,6 +68,6 @@ AkjoStudios: [akjostudios@gmx.net](mailto:akjostudios@gmx.net)
 
 ### GitHub Stats
 
-[![Akjo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akjo03&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Akjo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akjo03&show_icons=true&theme=dark&custom_title=Akjo03%27s%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akjo03&show_icons=true&theme=dark&exclude_repo=kids-day-bit,HackZurich2022)](https://github.com/anuraghazra/github-readme-stats)
