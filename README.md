@@ -5,7 +5,7 @@ I'm Lukas, a software developer based in switzerland currently working for the [
 Currently I'm mainly focussing on creating Java applications, but I'm also interested in learning new languages and skills, especially Rust, which I'm learning right now!
 
 ### Skill Repository
-*I atleast have dabbled into these AT LEAST once! To find out exactly what my skillset is, please don't hesitate to contact me (see below) or find out by yourself by looking at my repositories!*
+*I atleast have dabbled into these AT LEAST once! To find out exactly what my skillset is, please don't hesitate to contact me (see below) or find out by yourself by looking at my repositories! Also, these are in no particular order (somewhat sorted by knowledge)!*
 
 - Java (Plain, Maven, Spring & Spring Boot, Lombok, Swing, Hibernate, JUnit, JSP, Struts, etc.)
 - Rust (Plain, Cargo, Yew, Tauri)
