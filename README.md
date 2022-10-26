@@ -32,7 +32,7 @@ Currently I'm mainly focussing on creating Java applications, but I'm also inter
 
 - 💻 Programming
 - 🎹 Playing piano
-- 🎼 Composing music
+- 🎼 Composing music using Musescore
 - 🎮 Gaming
 - 🌱 Learning new things
 - 👬🏼 Meeting new friends and opportunities
@@ -51,10 +51,11 @@ Currently I'm mainly focussing on creating Java applications, but I'm also inter
 - 📸 Photography
 - 🗺️ Travelling the world
 
-### I'm currently getting into...
+### I'm currently learning/getting into...
 - 👨‍💻 Programming with Rust
+- 🎵 Creating music with Reaper
+- ㊗️ Learning Japanese
 - 🎥 Video Editing
-- 🦾 Adobe Suite (Photoshop, Premiere Pro, After Effects, Illustrator, XD, etc.)
 
 ### How you can reach me:
 
