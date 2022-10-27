@@ -32,7 +32,7 @@ Currently I'm mainly focussing on creating Java applications, but I'm also inter
 
 - 💻 Programming
 - 🎹 Playing piano
-- 🎼 <transcribing/Arranging/Composing music using MuseScore
+- 🎼 Transcribing/Arranging/Composing music using MuseScore
 - 🎮 Gaming
 - 🌱 Learning new things
 - 👬 Hanging out with friends
