@@ -13,13 +13,13 @@ Currently I'm mainly focussing on creating Java applications, but I'm also inter
 - Python (Plain, Flask)
 - C# (Console, Forms, Unity)
 - Web (HTML, CSS, Javascript, Typescript, Angular, Tailwind, Firebase, Node, etc.)
-- Shell Scripting (CMD, PowerShell, Bash)
-- IT-Security (Basic Malware Analysis, Cryptography, Firewall Setup, Network Routing)
 - Git (Commits, Push/Pull, Branching, Merge Conflicts, etc.)
 - GitHub (Project Management, Actions, etc.)
 - GitLab (Basic Usage)
 - Atlassian Products (Confluence, Jira, BitBucket, Trello)
 - Jenkins (CI/CD)
+- Shell Scripting (CMD, PowerShell, Bash)
+- IT-Security (Basic Malware Analysis, Cryptography, Firewall Setup, Network Routing)
 - Microservices [Java]
 - IBM Filenet [Java]
 - Discord Bot Development [Python, Java]
@@ -32,11 +32,11 @@ Currently I'm mainly focussing on creating Java applications, but I'm also inter
 
 - 💻 Programming
 - 🎹 Playing piano
-- 🎼 Composing music using Musescore
+- 🎼 <transcribing/Arranging/Composing music using MuseScore
 - 🎮 Gaming
 - 🌱 Learning new things
-- 👬🏼 Meeting new friends and opportunities
 - 👬 Hanging out with friends
+- 👬🏼 Meeting new friends and opportunities
 
 ### I'm interested in...
 
