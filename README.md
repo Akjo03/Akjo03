@@ -47,15 +47,15 @@ Currently I'm mainly focussing on creating Java applications, but I'm also inter
 - 🧠 Artificial Intelligence
 - 🤖 Robots (especially Boston Dynamics)
 
-### I would love doing/getting into...
-- 📸 Photography
-- 🗺️ Travelling the world
-
 ### I'm currently learning/getting into...
 - 👨‍💻 Programming with Rust
 - 🎵 Creating music with Reaper
 - ㊗️ Learning Japanese
 - 🎥 Video Editing
+
+### I would love to (learn)...
+- 📸 Photography
+- 🗺️ Travel the world
 
 ### How you can reach me:
 
