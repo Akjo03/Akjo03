@@ -9,10 +9,10 @@ Currently I'm mainly focussing on creating Java applications, but I'm also inter
 
 - Java (Plain, Maven, Spring & Spring Boot, Lombok, Swing, Hibernate, JUnit, JSP, Struts, etc.)
 - Rust (Plain, Cargo, Yew, Tauri)
-- Kotlin (Basic Knowledge, Android Development, Gradle)
+- Web (HTML, CSS, Javascript, Typescript, Angular, Tailwind, Firebase, Node, etc.)
 - Python (Plain, Flask)
 - C# (Console, Forms, Unity)
-- Web (HTML, CSS, Javascript, Typescript, Angular, Tailwind, Firebase, Node, etc.)
+- Kotlin (Basic Knowledge, Android Development, Gradle)
 - Git (Commits, Push/Pull, Branching, Merge Conflicts, etc.)
 - GitHub (Project Management, Actions, etc.)
 - GitLab (Basic Usage)
