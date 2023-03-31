@@ -44,7 +44,7 @@ Currently I'm mainly focussing on creating Java applications, but I'm also inter
 - 🪐 Everything related to space (especially SpaceX)
 - 🌎 GPS navigation
 - 🚗 Electric Vehicles (especially Tesla)
-- 🧠 Artificial Intelligence
+- 🧠 Artificial Intelligence (ChatGPT is ❤️)
 - 🤖 Robots (especially Boston Dynamics)
 
 ### I'm currently learning/getting into...
