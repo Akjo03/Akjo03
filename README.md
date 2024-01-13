@@ -10,7 +10,7 @@ Currently I'm mainly focussing on creating Java applications, but I'm also inter
 - Java (Plain, Maven, Spring & Spring Boot, Lombok, Swing, Hibernate, JUnit, JSP, Struts, etc.)
 - Rust (Plain, Cargo, Yew, Tauri)
 - Web (HTML, CSS, Javascript, Typescript, Angular, Tailwind, Firebase, Node, etc.)
-- Python (Plain, Flask)
+- Python (Plain, Flask)$
 - C# (Console, Forms, Unity)
 - Kotlin (Basic Knowledge, Android Development, Gradle)
 - Git (Commits, Push/Pull, Branching, Merge Conflicts, etc.)
@@ -18,6 +18,7 @@ Currently I'm mainly focussing on creating Java applications, but I'm also inter
 - GitLab (Basic Usage)
 - Atlassian Products (Confluence, Jira, BitBucket, Trello)
 - Jenkins (CI/CD)
+- Monitoring (Grafana, Prometheus, etc.)
 - Shell Scripting (CMD, PowerShell, Bash)
 - IT-Security (Basic Malware Analysis, Cryptography, Firewall Setup, Network Routing)
 - Microservices [Java]
@@ -64,8 +65,6 @@ My preffered way for you to contact me would be over Discord! My discord user is
 For personal inquiries I'm also available through my e-mail [lukas.kueffer@outlook.com](mailto:lukas.kueffer@outlook.com). Any business inquiries should be directed to the appropriate e-mail below:
 
 FOITT (Federal Office of Information Technology, Systems and Telecommunication): [lukas.kueffer@bit.admin.ch](mailto:lukas.kueffer@bit.admin.ch)
-
-AkjoStudios: [akjostudios@gmx.net](mailto:akjostudios@gmx.net)
 
 ### GitHub Stats
 
