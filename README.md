@@ -10,7 +10,7 @@ Currently I'm mainly focussing on creating Java applications, but I'm also inter
 - Java (Plain, Maven, Spring & Spring Boot, Lombok, Swing, Hibernate, JUnit, JSP, Struts, etc.)
 - Rust (Plain, Cargo, Yew, Tauri)
 - Web (HTML, CSS, Javascript, Typescript, Angular, Tailwind, Firebase, Node, etc.)
-- Python (Plain, Flask)$
+- Python (Plain, Flask)
 - C# (Console, Forms, Unity)
 - Kotlin (Basic Knowledge, Android Development, Gradle)
 - Git (Commits, Push/Pull, Branching, Merge Conflicts, etc.)
@@ -18,9 +18,10 @@ Currently I'm mainly focussing on creating Java applications, but I'm also inter
 - GitLab (Basic Usage)
 - Atlassian Products (Confluence, Jira, BitBucket, Trello)
 - Jenkins (CI/CD)
-- Monitoring (Grafana, Prometheus, etc.)
+- Monitoring (Grafana, Prometheus, Promregator, etc.)
 - Shell Scripting (CMD, PowerShell, Bash)
 - IT-Security (Basic Malware Analysis, Cryptography, Firewall Setup, Network Routing)
+- Cloud Services (CloudFoundry, RedHat OpenShift, Railway, etc.)
 - Microservices [Java]
 - IBM Filenet [Java]
 - Discord Bot Development [Python, Java]
@@ -50,8 +51,7 @@ Currently I'm mainly focussing on creating Java applications, but I'm also inter
 
 ### I'm currently learning/getting into...
 - 👨‍💻 Programming with Rust
-- 🎵 Creating music with Reaper
-- ㊗️ Learning Japanese
+- 🎵 Creating music with Logic Pro
 - 🎥 Video Editing
 
 ### I would love to (learn)...
