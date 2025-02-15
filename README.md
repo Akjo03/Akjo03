@@ -2,14 +2,14 @@
 
 I'm Lukas, a software developer based in switzerland currently working for the [FOITT (Federal Office of Information Technology, Systems and Telecommunication)](https://bit.admin.ch) and for [AkjoStudios](https://github.com/AkjoStudios), my own self-proclaimed software company creating stable and modern applications for everyone on earth and beyond! 🚀
 
-Currently I'm mainly focussing on creating Java applications, but I'm also interested in learning new languages and skills, especially Rust, which I'm learning right now!
+Currently I'm mainly focussing on creating Java applications, but I'm also interested in learning new languages and skills.
 
 ### Skill Repository
-*I atleast have dabbled into these AT LEAST once! To find out exactly what my skillset is, please don't hesitate to contact me (see below) or find out by yourself by looking at my repositories! Also, these are in no particular order (somewhat sorted by knowledge)!*
+*I atleast have dabbled into these AT LEAST once! My main skills are highlighted bold. To find out exactly what my skillset is, please don't hesitate to contact me (see below). Also, these are in no particular order (somewhat sorted by knowledge)!*
 
-- Java (Plain, Maven, Spring & Spring Boot, Lombok, Swing, Hibernate, JUnit, JSP, Struts, etc.)
+- **Java** (Plain, Maven, Spring & Spring Boot, Lombok, Swing, Hibernate, JUnit, JSP, Struts, etc.)
 - Rust (Plain, Cargo, Yew, Tauri)
-- Web (HTML, CSS, Javascript, Typescript, Angular, Tailwind, Firebase, Node, etc.)
+- Web (HTML, CSS, Javascript, Typescript, Angular, Tailwind, Firebase, Node, Bun, etc.)
 - Python (Plain, Flask)
 - C# (Console, Forms, Unity)
 - Kotlin (Basic Knowledge, Android Development, Gradle)
@@ -17,12 +17,12 @@ Currently I'm mainly focussing on creating Java applications, but I'm also inter
 - GitHub (Project Management, Actions, etc.)
 - GitLab (Basic Usage)
 - Atlassian Products (Confluence, Jira, BitBucket, Trello)
-- Jenkins (CI/CD)
-- Monitoring (Grafana, Prometheus, Promregator, etc.)
+- CI/CD (Jenkins, Tekton)
+- **Monitoring** (Grafana, Prometheus, Grafana Alloy, Loki, etc.)
 - Shell Scripting (CMD, PowerShell, Bash)
 - IT-Security (Basic Malware Analysis, Cryptography, Firewall Setup, Network Routing)
-- Cloud Services (CloudFoundry, RedHat OpenShift, Railway, etc.)
-- Microservices [Java]
+- **Cloud Services** (CloudFoundry, RedHat OpenShift, Railway, etc.)
+- **Microservices** [Java]
 - IBM Filenet [Java]
 - Discord Bot Development [Python, Java]
 - Game Development [GameMaker, Unity]
@@ -62,9 +62,7 @@ Currently I'm mainly focussing on creating Java applications, but I'm also inter
 
 My preffered way for you to contact me would be over Discord! My discord user is [Akjo03#3012](https://discordapp.com/users/284983236428562432).
 
-For personal inquiries I'm also available through my e-mail [lukas.kueffer@outlook.com](mailto:lukas.kueffer@outlook.com). Any business inquiries should be directed to the appropriate e-mail below:
-
-FOITT (Federal Office of Information Technology, Systems and Telecommunication): [lukas.kueffer@bit.admin.ch](mailto:lukas.kueffer@bit.admin.ch)
+For personal inquiries I'm also available through my e-mail [lukas.kueffer@outlook.com](mailto:lukas.kueffer@outlook.com).
 
 ### GitHub Stats
 
