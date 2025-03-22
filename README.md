@@ -42,17 +42,16 @@ Currently I'm mainly focussing on creating Java applications, but I'm also inter
 
 ### I'm interested in...
 
-- 🔌 Technology
-- 🪐 Everything related to space (especially SpaceX)
+- 🔌 Technology in general
+- 🪐 Everything related to space (especially SpaceX / Starship)
 - 🌎 GPS navigation
 - 🚗 Electric Vehicles (especially Tesla)
-- 🧠 Artificial Intelligence (ChatGPT is ❤️)
-- 🤖 Robots (especially Boston Dynamics)
+- 🧠 Artificial Intelligence
+- 🤖 Robots (especially Figure & Boston Dynamics)
 
 ### I'm currently learning/getting into...
-- 👨‍💻 Programming with Rust
-- 🎵 Creating music with Logic Pro
-- 🎥 Video Editing
+- 🎵 Creating music with a DAW (Logic Pro & Mixcraft Studio)
+- 🎥 Video Editing (DaVinci Resolve)
 
 ### I would love to (learn)...
 - 📸 Photography
